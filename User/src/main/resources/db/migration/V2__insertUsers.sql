@@ -1,0 +1,1 @@
+INSERT into users(id,name,email,phone_number) VALUES(2, "Pavani", "Pavani@epam.com", "9966336771");
